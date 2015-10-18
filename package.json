@@ -1,0 +1,33 @@
+{
+  "name": "ngsimple",
+  "version": "1.0.0",
+  "description": "Create simple angular applications for quick testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joeSaad/ngsimple.git"
+  },
+  "keywords": [
+    "scaffolding",
+    "angular",
+    "applications",
+    "angularjs"
+  ],
+  "author": "Joe Saad <amplioslabs@gmail.com> (http://joeSaad.net)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeSaad/ngsimple/issues"
+  },
+  "homepage": "https://github.com/joeSaad/ngsimple",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "mkdirp": "^0.5.1",
+    "pretty": "^1.0.0"
+  },
+  "bin": {
+    "ngsimple": "./index.js"
+  }
+}
