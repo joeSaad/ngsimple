@@ -1,7 +1,7 @@
 {
   "name": "ngsimple",
-  "version": "1.0.0",
-  "description": "Create simple angular applications for quick testing",
+  "version": "1.1.0",
+  "description": "Create simple angular components for quick testing",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
